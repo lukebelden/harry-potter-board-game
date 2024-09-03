@@ -1,6 +1,6 @@
 # The Board
 
-HPBD is played out on a game board that depicts several locations in Harry Potter including a map of Hogwarts with several rooms. There are also several areas on the board designed to hold game content and components.
+Witches and Wizards is played out on a game board that depicts several locations in Harry Potter including a map of Hogwarts with several rooms. There are also several areas on the board designed to hold game content and components.
 
 ## Story Track
 
