@@ -1,8 +1,8 @@
-# Harry Potter - The Board Game
+# Witches and Wizards - The Board Game
 
 ## Primary Goals of Design
 
-- Thematic: Playing HPBG should feel close to the main theme and elements of the book without requiring the same story line. Students, teachers, locations, items, and progression through 6 years of Hogwarts, should all be included, but the actual story line is dynamic and new to the game. Playing a student should feel thematic and appropriate for that character.
+- Thematic: Playing Witches and Wizards should feel close to the main theme and elements of the book of Harry Potter without requiring the same story line. Students, teachers, locations, items, spells and progression through four seasons of Hogwarts, should all be included. The actual story line is dynamic and new to the game. Playing a student should feel thematic and appropriate for that character.
 
 - Discovery: Exploring the board should feel like the first years at Hogwarts; discovery rooms, uncovering mysteries to a story, competing in challenges, and completing objectives.
 
