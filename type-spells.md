@@ -14,28 +14,50 @@
 
 -Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
 
--Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
+-Aguamenti: charm that creates a jet of clear, drinkable water from the tip of the caster's wand. 
+
+
 	
 ## Combat/Defensive spell:
 
--Expelliarmus: Disarming spell; it knocks the victim's weapon (usually a wand) out of his/her hands. It can also be 		used to knock other items out of the target's hands. (combat/defensive/sneak attack only)
+-Expelliarmus: Disarming spell; it knocks the victim's weapon (usually a wand) out of his/her hands. It can also be used to knock other items out of the target's hands. (combat/defensive/sneak attack only)
 
 -Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
 
 -Stupefy: Stunning Spell or Stunner, is a charm that renders a target unconscious. (combat/defensive only)
 
--Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
+-Aguamenti: charm that creates a jet of clear, drinkable water from the tip of the caster's wand.
+
+-Aqua Eructo:
+
+-Baubillious:
 
 
 # Advanced Spells (learned in classroom)
 
 ## Netural spell:
 
+-Aberto: charm that is utilized to open locks, doors, or other sealed objects,
+
 -Colloportus: Locking Spell, a charm that locked doors, making it so that they could not be opened manually. 
 
 -Alohomora: It allows the caster to open locked doors and chests.
 
+-Glisseo: the incantation of a charm that can be used to transform a staircase into a smooth slide.
+
+-Aparecium:
+
+-Apparate:
+
+-Arresto Momentum:
+
+-Avenseguim:
+
+-Bubble Head:
+
 ## Combat/Defensive spell:
+
+-Alarte Ascendare: Vaulting Charm, launch an object up into the air. It can be used to fling an opponent into the air. The spell allows the caster to levitate even heavy objects
 
 -Expecto Patronum: Defensive charm that summons a guardian to protect the caster from Dementors and Lethifolds. (Some scenario, otherwise combat/defensive only)
 
@@ -49,34 +71,32 @@
 
 -Slugulus Erecto: a curse that forces a victim to vomit slugs. (Some scenario, otherwise combat/defensive only)
 
+-Protego: Shield Charm, protects the caster with an invisible shield that can deflect spells back at attackers. (Defensive only)
 
-# Spell Level System
--Crucio 
--Imperius Curse 
--Obliviate
--Rictusempra
--Glisseo
--Avada Kedavra
--The Patronus Charm
+-Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
 
-Casting Spells
--Combat spell
-  -Expelliarmus (combat and duels only)
-  -Stupefy (can use in some scenario otherwise it combat and duels only)
-  -Slugulus Erecto (Some scenario, otherwise combat only) - maybe
-  -Crucio (combat only)
-  -Imperius Curse (unqiue spell only use in dark magic)
-  -Obliviate
-  -Rictusempra
-  -Glisseo
-  -Avada Kedavra
-  -Expecto Patronum (combat only)
-  -Petrificus Totalus (combat only)
-  -Expecto Patronum (combat only)
-  -Petrificus Totalus (combat only)
--Defence spell
-  Shield Charm (Protego)
-  -The Patronus Charm
-  Protego Maxima
-  Fianto Duri
-  Repello Inimicum
+-Rictusempra: causes the target to laugh uncontrollably, also known as the Tickling Charm. (defensive Spell)
+
+-Bluebell Flames:
+
+-Colloshoo:
+
+-Confringo:
+
+-Confundus:
+
+-Conjunctivitis:
+
+# Spell Upgrade/Level System
+
+-Crucio: Cruciatus Curse, one of the three Unforgivable Curses that causes intense and excruciating pain to its victim. The caster must have a deep desire to cause pain for the spell to work.
+
+-Imperius Curse: Gives the caster complete control over another person's actions.
+
+-Obliviate: Memory Charm, also known as the Obliviate spell, can change or erase memories. The strength of the spell depends on the caster, and in some cases, it can destroy memories so completely that the caster may lose their sense of identity.
+
+-Avada Kedavra: Killing Curse, is a spell that instantly and painlessly kills its victim.
+
+-Avis:
+
+
