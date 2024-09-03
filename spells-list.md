@@ -1,42 +1,41 @@
-Basic Spells
+# Basic Spells
 
-Netural spell:
+## Netural spell:
 
-  -lumos: Illuminates the tip of a caster's wand, creating a beam of light that can be used to see in the dark.
+-lumos: Illuminates the tip of a caster's wand, creating a beam of light that can be used to see in the dark.
 
-  -Nox: A charm that extinguishes the light at the end of a caster's wand. 
+-Nox: A charm that extinguishes the light at the end of a caster's wand. 
 
-  -Accio: A summoning charm that summons an object to the caster, potentially over a long distance.
+-Accio: A summoning charm that summons an object to the caster, potentially over a long distance.
 
-  -Wingardium Leviosa: Levitation Charm, is a spell that makes objects levitate
+-Wingardium Leviosa: Levitation Charm, is a spell that makes objects levitate
 	
-  -Reparo: Mending Charm or Repairing Charm, is a charm that can fix broken or torn objects.
+-Reparo: Mending Charm or Repairing Charm, is a charm that can fix broken or torn objects.
+
+-Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
+
+-Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
 	
-	-Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
+## Combat/Defensive spell:
 
- 	-Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
-	
-Combat/Defensive spell:
+-Expelliarmus: Disarming spell; it knocks the victim's weapon (usually a wand) out of his/her hands. It can also be 		used to knock other items out of the target's hands. (combat/defensive/sneak attack only)
 
-  -Expelliarmus: Disarming spell; it knocks the victim's weapon (usually a wand) out of his/her hands. It can also be 		used to knock other items out of the target's hands. (combat/defensive/sneak attack only)
+-Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
 
-  -Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
+-Stupefy: Stunning Spell or Stunner, is a charm that renders a target unconscious. (combat/defensive only)
 
-  -Stupefy: Stunning Spell or Stunner, is a charm that renders a target unconscious. (combat/defensive only)
-
-	-Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
+-Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
 
 
+# Advanced Spells (learned in classroom)
 
-Advanced Spells (learned in classroom)
-
-Netural spell:
+## Netural spell:
 
 -Colloportus: Locking Spell, a charm that locked doors, making it so that they could not be opened manually. 
 
 -Alohomora: It allows the caster to open locked doors and chests.
 
-Combat/Defensive spell:
+## Combat/Defensive spell:
 
 -Expecto Patronum: Defensive charm that summons a guardian to protect the caster from Dementors and Lethifolds. (Some scenario, otherwise combat/defensive only)
 
@@ -51,7 +50,7 @@ Combat/Defensive spell:
 -Slugulus Erecto: a curse that forces a victim to vomit slugs. (Some scenario, otherwise combat/defensive only)
 
 
-Spell Level System
+# Spell Level System
 -Crucio 
 -Imperius Curse 
 -Obliviate
