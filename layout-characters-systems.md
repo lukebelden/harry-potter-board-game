@@ -1,4 +1,4 @@
-Character layout includes:
+# Character layout includes:
 
   -pictures/name: shows who they are as a charaters.
   
