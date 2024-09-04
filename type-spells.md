@@ -1,102 +1,159 @@
-# Basic Spells
-
 ## Netural spell:
 
--lumos: Illuminates the tip of a caster's wand, creating a beam of light that can be used to see in the dark.
+Name:                 Type:             Discription:
 
--Nox: A charm that extinguishes the light at the end of a caster's wand. 
+Accio                 Charm             Summons an object to the caster, potentially over a long distance.
 
--Accio: A summoning charm that summons an object to the caster, potentially over a long distance.
+Cushioning            Charm             Created a cushioning effect on the target.
 
--Wingardium Leviosa: Levitation Charm, is a spell that makes objects levitate
-	
--Reparo: Mending Charm or Repairing Charm, is a charm that can fix broken or torn objects.
+Defodio               Spell             Cut channels or grooves in solid material.
 
--Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
+Ferula                Charm             Conjured bandages and wrapped them around a wound, splinting any broken bones.
 
--Aguamenti: charm that creates a jet of clear, drinkable water from the tip of the caster's wand. 
+Lumos                 Charm             Illuminates the tip of a caster's wand, creating a beam of light that can be used to see in the dark.
 
+Nox                   Charm             Extinguishes the light at the end of a caster's wand. 
 
-	
+Reparo:               Charm             Mending Charm or Repairing Charm, fix broken or torn objects.
+
+Revelio               Charm             Reveals hidden objects, messages, and markings.
+
+Wingardium Leviosa    Charm             Levitation Charm, is a spell that makes objects levitate
+
 ## Combat/Defensive spell:
 
--Expelliarmus: Disarming spell; it knocks the victim's weapon (usually a wand) out of his/her hands. It can also be used to knock other items out of the target's hands. (combat/defensive/sneak attack only)
+Name:                 Type:             Discription:
 
--Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
+Aguamenti             Charm             Creates a jet of clear, drinkable water from the tip of the caster's wand. (Offensive)
 
--Stupefy: Stunning Spell or Stunner, is a charm that renders a target unconscious. (combat/defensive only)
+Aqua Eructo           Charm             Create a spout/jet of water from the tip of the wand. (Offensive)
 
--Aguamenti: charm that creates a jet of clear, drinkable water from the tip of the caster's wand.
+Baubillious           Charm             Precipitated a jet of white sparks from the tip of the wand. (Offensive)
 
--Aqua Eructo:
+Expelliarmus          Spell             Disarming spell; it knocks the victim's weapon out of the hands, also knock other items out of the target's hands. (Offensive)
 
--Baubillious:
+Ferula                Charm             Conjured bandages and wrapped them around a wound, splinting any broken bones. (Defensive)
+
+Rennervate            Charm             Awakens a living target from a state of unconsciousness. (Defensive)
+
+Stupefy               Charm             Stunning Spell or Stunner, is a charm that renders a target unconscious. (Offensive)
 
 
 # Advanced Spells (learned in classroom)
 
 ## Netural spell:
 
--Aberto: charm that is utilized to open locks, doors, or other sealed objects,
+Name:                 Type:             Discription:
 
--Colloportus: Locking Spell, a charm that locked doors, making it so that they could not be opened manually. 
+Aberto                Charm             Utilized to open locks, doors, or other sealed objects,
 
--Alohomora: It allows the caster to open locked doors and chests.
+Alohomora             Charm             It allows the caster to open locked doors and chests.
 
--Glisseo: the incantation of a charm that can be used to transform a staircase into a smooth slide.
+Aparecium             Spell             Expose hidden messages and invisible ink.
 
--Aparecium:
+Apparate              Spell             Allows a witch or wizard to instantly move from one location to another.
 
--Apparate:
+Arresto Momentum      Charm             Slows down the velocity of an object            
 
--Arresto Momentum:
+Bubble Head           Charm             Used to allow a person to breathe underwater.
 
--Avenseguim:
+Deprimo               Charm             The incantation of a charm used to blast holes in the ground.
 
--Bubble Head:
+Episkey               Spell             A healing spell that is used to treat minor injuries.
+
+Fidelius              Charm             A very powerful spell used to hide things or places, or to conceal secrets.
+
+Glisseo               Charm             The incantation used to transform a staircase into a smooth slide.
+
+Homonculous           Charm             When cast onto a map, would enable its possessor to track the movements of every person in the mapped area, through labelled dots that moved around the parchment.
+
+Horcrux               Spell             A Dark Arts spell that allows a wizard to bind a piece of their soul to an object 
+
+Prior Incantato       Spell            Reveals the magic most recently performed by a wand.
+
+Reducio               Charm             A charm that caused an object to shrink.
+
+Rennervate            Spell            a charm that awakens a living target from a state of unconsciousness.
+
+Specialis Revelio     Charm             Reveals spells cast on potions or objects.
+
 
 ## Combat/Defensive spell:
 
--Alarte Ascendare: Vaulting Charm, launch an object up into the air. It can be used to fling an opponent into the air. The spell allows the caster to levitate even heavy objects
+Name:                 Type:             Discription:
 
--Expecto Patronum: Defensive charm that summons a guardian to protect the caster from Dementors and Lethifolds. (Some scenario, otherwise combat/defensive only)
+Alarte Ascendare      Charm             Launch an object up into the air. It can be used to fling an opponent into the air. (Offensive)
 
--Patronus Charm: Defensive spell that summons a silvery-white animal guardian to protect the caster from Dementors. (Some scenario, otherwise combat/defensive only)
+Avis                  Charm             A charm that summons a flock of birds from the tip of a wand. (Defensive)
 
--Petrificus Totalus: Freezes or petrifies the body of the victim, making it incapable of moving. (combat/defensive only)
+Bluebell Flames       Charm             Creates magical blue flames with special properties. (Offensive)
 
--Locomotor Wibbly: Jelly-Legs Curse, also known as the Jelly-Legs Jinx, a spell that causes the victim's legs to collapse. (Some scenario, otherwise combat/defensive only)
+Confringo             Curse             Explosive curse that causes a target to explode and burst into flames. (Offensive)
 
--Tarantallegra: The Dancing Feet Spell, a charm used to force another person's legs to begin dancing uncontrollably. (Some scenario, otherwise combat/defensive only)
+Confundus             Spell             Can confuse and trick people into thinking something about themselves or their surroundings. (Offensive/Defensive)
 
--Slugulus Erecto: a curse that forces a victim to vomit slugs. (Some scenario, otherwise combat/defensive only)
+Conjunctivitis        Curse             A spell that irritates the eyes of its target, causing them to swell shut. (Offensive)
 
--Protego: Shield Charm, protects the caster with an invisible shield that can deflect spells back at attackers. (Defensive only)
+Engorgio              Charm             Growing Charm, is a spell that makes objects or creatures swell and lengthen. (Offensive)
 
--Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
+Expecto Patronum      Charm             Defensive charm that summons a guardian to protect the caster from Dementors and Lethifolds. (Offensive/Defensive)
 
--Rictusempra: causes the target to laugh uncontrollably, also known as the Tickling Charm. (defensive Spell)
+Everte Statum         Spell             Throws the victim backwards, similarly as if they had been thrown. (Offensive)
 
--Bluebell Flames:
+Finite                Spell             A general counter-spell that can stop the effects of other spells and reverse minor curses, jinxes, and hexes. (Defensive)
 
--Colloshoo:
+Fumos                 Spell             Creates a defensive cloud of smoke from a wand. (Defensive)
 
--Confringo:
+Furnunculus         Dark Charm          A Dark charm that causes a person to break out in boils or pimples when it touches their skin. (Offensive)
 
--Confundus:
+Immobulus             Spell             Immobilizes a target, stopping the movement of living and inanimate objects. (Offensive)  
 
--Conjunctivitis:
+Impedimenta           Spell             A spell that slows down or stops the movement of people or creatures. (Offensive)
+
+Locomotor Wibbly    Dark Charm         Jelly-Legs Curse, also known as the Jelly-Legs Jinx, a spell that causes the victim's legs to collapse. (Offensive)
+
+Liberacorpus          Spell            A counter-jinx spell that counteracts the Dangling Jinx, also known as Levicorpus. (Defensive)
+
+Nebulus               Spell            Creates a fog in a surrounding area. (Defensive)
+
+Obscuro               Charm            A charm that temporarily blinds a target by creating a blindfold over their eyes. (Offesnive)
+
+Oppugno               Jinx             A jinx that makes birds or other movable objects attack a target
+
+Partis Temporus       Charm            A charm that temporarily creates a gap in a target by parting it where the caster points their wand. (Defensive)
+
+Piertotum Locomotor   Charm            Used to animate statues and suits of armour. (Offensive)
+
+Patronus              Spell            Charm Defensive spell that summons a silvery-white animal guardian to protect the caster from Dementors. (Defensive)
+
+Petrificus Totalus    Curse            Freezes or petrifies the body of the victim, making it incapable of moving. (Offensive) 
+
+Protego               Spell            Shield Charm, protects the caster with an invisible shield that can deflect spells back at attackers. (Defensive)
+
+Rictusempra           Spell            Causes the target to laugh uncontrollably, also known as the Tickling Charm. (Offensive)
+
+Slugulus Erecto       Curse            Acurse that forces a victim to vomit slugs. (Offensive)
+
+Tarantallegra         Charm            Used to force another person's legs to begin dancing uncontrollably. (Offensive)
+
+
 
 # Spell Upgrade/Level System
 
--Crucio: Cruciatus Curse, one of the three Unforgivable Curses that causes intense and excruciating pain to its victim. The caster must have a deep desire to cause pain for the spell to work.
+Name:                 Type:             Discription:
 
--Imperius Curse: Gives the caster complete control over another person's actions.
+Avada Kedavra     Killing Curse         A spell that instantly and painlessly kills its victim. (Offensive)
 
--Obliviate: Memory Charm, also known as the Obliviate spell, can change or erase memories. The strength of the spell depends on the caster, and in some cases, it can destroy memories so completely that the caster may lose their sense of identity.
+Crucio                Curse             Cruciatus Curse, one of the three Unforgivable Curses that causes intense and excruciating pain to its victim. The caster must have a deep desire to cause pain for the spell to work. (Offensive)
 
--Avada Kedavra: Killing Curse, is a spell that instantly and painlessly kills its victim.
+Fianto Duri           Charm             The incantation of a charm that, when combined with a protective spell such as Protego Maxima, can cause magical defenses to become hard or more durable. (Defensive)
 
--Avis:
+Fiendfyre           Dark Curse          A curse that created magical flames of huge size and heat. Incredibly destructive, Fiendfyre often took the shape of enormous creatures such as serpents, dragons and birds of prey. (Offensive)
 
+Imperius Curse        Curse             Gives the caster complete control over another person's actions.
 
+Legilimens            Charm             Allows a wizard to see into another person's mind, reading the subject's thoughts.
+
+Meteolojinx Recanto   Charm             Incantation to a counter-charm that caused weather effects caused by Weather-Modifying Charms such as the Atmospheric Charm to cease. (Offensive/Defensive)
+
+Obliviate             Charm            Memory Charm, also known as the Obliviate spell, can change or erase memories. The strength of the spell depends on the caster, and in some cases, it can destroy memories so completely that the caster may lose their sense of identity.
