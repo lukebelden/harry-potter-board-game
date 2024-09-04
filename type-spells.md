@@ -1,4 +1,4 @@
-#Basic Spells
+# Basic Spells
 
 ## Netural spell:
 
