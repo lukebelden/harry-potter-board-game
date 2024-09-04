@@ -1,85 +1,19 @@
-Basic Spells
+# Idea 1
 
-Netural spell:
+Combat/duel each player will have 7 cards, all player put down three-six cards in sequence. you can choose either offensive or defensive depending on your sequence. All offensive card will have initiative number will go first. Any Defence card will be in play agasint any offense card. The first sequence will face up first and you will choose who you want to attack.
 
-  -lumos: Illuminates the tip of a caster's wand, creating a beam of light that can be used to see in the dark.
+## Example
+Offensive - Offensive : Initative number goes first.
 
-  -Nox: A charm that extinguishes the light at the end of a caster's wand. 
+Offensice - Defensive : Offensive will show how much damage and then defensive will show how much it blocked.
 
-  -Accio: A summoning charm that summons an object to the caster, potentially over a long distance.
-
-  -Wingardium Leviosa: Levitation Charm, is a spell that makes objects levitate
-	
-  -Reparo: Mending Charm or Repairing Charm, is a charm that can fix broken or torn objects.
-	
-	-Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
-
- 	-Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
-	
-Combat/Defensive spell:
-
-  -Expelliarmus: Disarming spell; it knocks the victim's weapon (usually a wand) out of his/her hands. It can also be 		used to knock other items out of the target's hands. (combat/defensive/sneak attack only)
-
-  -Ferula: Healing charm which conjured bandages and wrapped them around a wound, splinting any broken bones.
-
-  -Stupefy: Stunning Spell or Stunner, is a charm that renders a target unconscious. (combat/defensive only)
-
-	-Engorgio: Growing Charm, is a spell that makes objects or creatures swell and lengthen. (May use in combat/defensive)
+Defensive - Defensive : nothing happen unless special happens.
 
 
+## IF player more than two
 
-Advanced Spells (learned in classroom)
+Offensive - nothing : player who isnt attcking the offensive will take damage.
 
-Netural spell:
+Defensive - nothing : nothing happen unless special happens.
 
--Colloportus: Locking Spell, a charm that locked doors, making it so that they could not be opened manually. 
-
--Alohomora: It allows the caster to open locked doors and chests.
-
-Combat/Defensive spell:
-
--Expecto Patronum: Defensive charm that summons a guardian to protect the caster from Dementors and Lethifolds. (Some scenario, otherwise combat/defensive only)
-
--Patronus Charm: Defensive spell that summons a silvery-white animal guardian to protect the caster from Dementors. (Some scenario, otherwise combat/defensive only)
-
--Petrificus Totalus: Freezes or petrifies the body of the victim, making it incapable of moving. (combat/defensive only)
-
--Locomotor Wibbly: Jelly-Legs Curse, also known as the Jelly-Legs Jinx, a spell that causes the victim's legs to collapse. (Some scenario, otherwise combat/defensive only)
-
--Tarantallegra: The Dancing Feet Spell, a charm used to force another person's legs to begin dancing uncontrollably. (Some scenario, otherwise combat/defensive only)
-
--Slugulus Erecto: a curse that forces a victim to vomit slugs. (Some scenario, otherwise combat/defensive only)
-
-
-Spell Level System
--Crucio 
--Imperius Curse 
--Obliviate
--Rictusempra
--Glisseo
--Avada Kedavra
--The Patronus Charm
-
-Casting Spells
--Combat spell
-  -Expelliarmus (combat and duels only)
-  -Stupefy (can use in some scenario otherwise it combat and duels only)
-  -Slugulus Erecto (Some scenario, otherwise combat only) - maybe
-  -Crucio (combat only)
-  -Imperius Curse (unqiue spell only use in dark magic)
-  -Obliviate
-  -Rictusempra
-  -Glisseo
-  -Avada Kedavra
-  -Expecto Patronum (combat only)
-  -Petrificus Totalus (combat only)
-  -Expecto Patronum (combat only)
-  -Petrificus Totalus (combat only)
--Defence spell
-  Shield Charm (Protego)
-  -The Patronus Charm
-  Protego Maxima
-  Fianto Duri
-  Repello Inimicum
-  Protego horribilis - may require a group
--Neutral Spell
+Defensive - any amount of offensive : Defensive card will reduce and can break otherwise it succeeded 
