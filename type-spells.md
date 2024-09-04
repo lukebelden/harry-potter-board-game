@@ -1,3 +1,5 @@
+#Basic Spells
+
 ## Netural spell:
 
 Name:                 Type:             Discription:
